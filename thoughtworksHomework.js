@@ -112,8 +112,3 @@ MazeFactory.prototype.connect = function(arr){
 
 	}
 }
-function testMerge(){
-}
-function test(){
-
-}
