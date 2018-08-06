@@ -112,8 +112,10 @@ MazeFactory.prototype.connect = function(arr){
 
 	}
 }
-function testMerge(){
-}
+<<<<<<< HEAD
 function test(){
 
+=======
+function testMerge(){
+>>>>>>> bd77efe6fe1264a53061032a4af3a2435d5cf100
 }
